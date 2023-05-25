@@ -8,11 +8,11 @@
 
 
 Judul :
-Monitoring Kelembapan Menggunakan Platform Blynk
+Monitoring dan Kontrolling kadar asap rokok
 
 
 Deskripsi :
-Rancangan ini digunakan untuk monitoring kelembapan
+Rancangan ini digunakan untuk monitoring dan kontrolling kadar asap rokok di sebuah ruangan
 
 
 Pembagian Tugas :
@@ -44,5 +44,7 @@ Komponen yang digunakan :
 
 
 
+![pub](https://github.com/hadibayu12399/PA-IoT/assets/74283022/de926ef7-4e46-4a1f-9511-31aa562ecaff)
 
 
+![Sub](https://github.com/hadibayu12399/PA-IoT/assets/74283022/1d7b7a38-e6f8-4798-aef9-7722d7c00d93)
