@@ -19,31 +19,30 @@ Pembagian Tugas :
 
 [ Erman Parni Simanjuntak ]
 
-Membuat rangkaian 
 Codingan
 
 [ Muhammad Fajrianur ]
 
-Membuat rangkaian LED
-Codingan
+Membuat rangkaian
+
 
 [ Hadi Bayu Saputra ]
 
-Membuat Rekaman
+Membuat Manual Book
 
 
 Komponen yang digunakan :
 
-- esp32 : 2
-- buzzer : 1
-- LED : 2
-- Resistor : 2
-- Breadboard : 2 
-- Kabel Jumper male to male : 10
-- Button : 2
-- DHT11 : 1
+1.	NodeMCU x 2
+2.	Kabel Jumper Male - Male x 3
+3.	Kabel Jumper Female - Female x 1
+4.	Kabel Jumper Male - Female x 3
+5.	LED x 3
+6.	Resistor x 3
+7.	Sensor MQ- 3 x 1
+8.	Buzzer x 1
 
 
-![WhatsApp Image 2023-04-07 at 11 18 35](https://user-images.githubusercontent.com/74283022/230541152-5c98d04c-77e7-4d99-96cc-288cffe80fb2.jpeg)
+
 
 
